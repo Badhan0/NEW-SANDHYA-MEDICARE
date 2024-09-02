@@ -112,6 +112,18 @@ For further details, **Contact me:** <br />
 
 
 
+# Sample Bill, It will print:
+
+![Screenshot 2024-09-03 011758](https://github.com/user-attachments/assets/e9303f75-8118-4440-b995-098b57ff56b1)
+
+
+
+# Statement:
+
+[statement1.pdf](https://github.com/user-attachments/files/16840923/statement1.pdf)
+
+
+
 
 
 
