@@ -7,7 +7,7 @@ For further details, Contact me:<br />
 # E-mail: badhanpaul.nit@gmail.com 
 # Phone No: +919749889668
 
-# Some demo is adding for reference:
+# A demo video is added for reference:
 
 # Demonstration video Link:  https://drive.google.com/file/d/17gQzM9jye4KOmi_08WRbuIJx_OyPb4Q9/view?usp=sharing
 
