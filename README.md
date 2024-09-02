@@ -46,7 +46,8 @@ For further details, Contact me:<br />
 
 # Download Statements Panel:
 
-![Screenshot 2024-09-02 230042](https://github.com/user-attachments/assets/15dcb1a5-5285-462b-a5e0-511323360b4a)
+![Screenshot 2024-09-03 010516](https://github.com/user-attachments/assets/d724e425-b478-463a-b995-43fe7710dd49)
+
 
 
 # Modify Profile Panel:
