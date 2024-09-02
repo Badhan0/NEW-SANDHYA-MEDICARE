@@ -1,7 +1,8 @@
 # NEW-SANDHYA-MEDICARE
-This is a Software which is using for Pharmacy Management System & Billing using by NEW SANDHYA MEDICARE under taken by SANDHYA NURSING HOME & DIAGNOSTIC CENTRE. 
-It is industrial great software made by Badhan Paul.
-For further details, Contact me:
+This is a Software which is using for Pharmacy Management System & Billing using by NEW SANDHYA MEDICARE under taken by SANDHYA NURSING HOME & DIAGNOSTIC CENTRE.<br /> 
+<br />
+It is industrial great software made by Badhan Paul.<br />
+For further details, Contact me:<br />
 
 # E-mail: badhanpaul.nit@gmail.com Phone No: +919749889668
 
