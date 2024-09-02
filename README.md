@@ -16,6 +16,12 @@ For further details, Contact me:<br />
 ![Screenshot 2024-09-02 225918](https://github.com/user-attachments/assets/cd42eb09-457e-4359-9c5c-dbd081aa8a71)
 
 
+<br />
+<br />
+# Admin Section:
+<br />
+<br />
+
 # Admin Dashboard:
 
 ![Screenshot 2024-09-02 230007](https://github.com/user-attachments/assets/fa7060c9-598c-4a79-8b9d-17c1b4efb10e)
@@ -41,6 +47,11 @@ For further details, Contact me:<br />
 ![Screenshot 2024-09-02 230056](https://github.com/user-attachments/assets/2087d553-3b7f-45c1-b404-2e917672f31a)
 
 
+<br />
+<br />
+# User Section:-
+<br />
+<br />
 # User Dashboard:
 
 ![Screenshot 2024-09-02 230147](https://github.com/user-attachments/assets/5915ea35-ca71-4bb3-8fce-29e6b00eac69)
